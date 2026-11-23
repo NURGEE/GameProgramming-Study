@@ -50,8 +50,7 @@ int main()
 
 현재 진행도 
 
-![Untitled](%EA%B2%8C%EC%9E%84%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(C++)/Untitled%201.png)
-
+![지렁이 게임 진행 화면](Untitled%201.png)
 ```
 #include <iostream>
 #include <time.h>
